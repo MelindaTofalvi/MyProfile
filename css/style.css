@@ -1,0 +1,71 @@
+*{
+	font-family: Arial;
+}
+
+.navbar{
+	background-color: black;
+}
+
+.nav li .white{
+	color: #fff!important;
+}
+
+.pink, h4{
+	color: #ef5dc6;
+}
+
+.me-img{
+	width: 80%;
+	margin: 10% auto 0 auto;
+}
+
+.university{
+	color: #595658;
+}
+
+.nav li .red{
+	color: red!important;
+}
+
+.navbar-brand{
+	width: 120px;
+	vertical-align: middle;
+	margin-top: -8px
+}
+
+p{
+	text-align: justify;
+}
+
+#skills ul{
+	padding-left: 6%;
+}
+
+.proj-img{
+	margin: 5% 0 5% 0;
+}
+
+.uni{
+	margin-top: 5%;
+}
+
+.employment h5:first-child{
+	margin-top: 10%;
+}
+
+.proj-dscrptn{
+	margin-bottom: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
